@@ -15,7 +15,7 @@ Insertion Sort algoritmasının Big-O gösterimi O(n^2)'dir.
 
 
 
-#Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
+## Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
 
 Average case: Aradığımız sayının ortada olması
 Worst case: Aradığımız sayının sonda olması
@@ -25,7 +25,7 @@ Best case: Aradığımız sayının dizinin en başında olması.
 [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 Dizi sıralandıktan sonra 18 sayısı için Average case kapsamına girer. Bu durumda, dizinin ortasında bir eleman olarak aranan sayının bulunması beklenir.
 
-Selection Sort aşamaları:
+## Selection Sort aşamaları:
 
  *   [7, 3, 5, 8, 2, 9, 4, 15, 6] -> minimum elemanı bulmak için 2 seçilir ve başa yerleştirilir: [2, 3, 5, 8, 7, 9, 4, 15, 6]
  *   [2, 3, 5, 8, 7, 9, 4, 15, 6] -> minimum elemanı bulmak için 3 seçilir ve 2. sıradaki elemanla yer değiştirilir: [2, 3, 5, 8, 7, 9, 4, 15, 6]
