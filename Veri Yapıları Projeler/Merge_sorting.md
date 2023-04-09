@@ -1,6 +1,6 @@
-#Verilen dizi: [16, 21, 11, 8, 12, 22]
+# Verilen dizi: [16, 21, 11, 8, 12, 22]
 
-##Merge Sort aşamaları:
+## Merge Sort aşamaları:
 
  *   [16, 21, 11, 8, 12, 22] -> ilk olarak diziyi ikiye bölüyoruz: [16, 21, 11] ve [8, 12, 22]
  *   [16, 21, 11] -> sol tarafı tekrar ikiye bölüyoruz: [16] ve [21, 11]
