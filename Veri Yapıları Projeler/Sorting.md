@@ -1,7 +1,7 @@
 
-#Verilen dizi: [22, 27, 16, 2, 18, 6]
+# Verilen dizi: [22, 27, 16, 2, 18, 6]
 
-##Insertion Sort aşamaları:
+## Insertion Sort aşamaları:
 
  *   [22, 27, 16, 2, 18, 6] -> ilk eleman zaten sıralı kabul edilir.
  *   [22, 27, 16, 2, 18, 6] -> 27, 22'den büyük olduğu için yer değiştirilir: [22, 27, 16, 2, 18, 6]
